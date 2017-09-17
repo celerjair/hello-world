@@ -1,5 +1,3 @@
 # hello-world
-hola mundillo
-
 hola mundo
-hola pablito de mis amores
+hola pablito de mis mil amores
